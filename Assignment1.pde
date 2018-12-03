@@ -1,4 +1,4 @@
-This is the first assignment from week 1
+This is the first assignment from week 1, it is a ship
 
 void setup() {
   //set window
